@@ -8,4 +8,4 @@ function verificadorParImpar(num) {
     }
 }
 
-console.log(verificadorParImpar);
+console.log(verificadorParImpar(7));
